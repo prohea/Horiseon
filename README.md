@@ -1,4 +1,6 @@
 # App Name
+Horiseon
+
 # Criteria
 # Contributions
 # Resources Used
